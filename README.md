@@ -4,7 +4,7 @@
 
 - [Python](#python)
 - [SQL](#sql)
-- [Functional Programming](#functionalprogramming)
+- [Functional Programming](#functional-programming)
 - [Java](#java)
 ---
 
