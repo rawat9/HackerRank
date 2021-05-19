@@ -5,6 +5,7 @@
 - [Python](#python)
 - [SQL](#sql)
 - [Functional Programming](#functionalprogramming)
+- [Java](#java)
 ---
 
 ## Python
@@ -51,6 +52,17 @@
 |38|Sets|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Solution]()
 |39|Sets|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[]()
 |40|Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[]()
+---
+
+## Java
+> All solutions in Java 15
+
+|No.| Subdomain  |   Question    |   Solution |        
+|:-:|:---------:|:----------------:|:----------:|
+|1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution]()|
+|2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution]()|
+|3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution]()|
+
 ---
 
 ## SQL
