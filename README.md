@@ -62,7 +62,8 @@
 |1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution]()|
 |2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution]()|
 |3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution]()|
-
+|4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution]()|
+|5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution]()|
 ---
 
 ## SQL
