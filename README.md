@@ -59,11 +59,13 @@
 
 |No.| Subdomain  |   Question    |   Solution |        
 |:-:|:---------:|:----------------:|:----------:|
-|1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution]()|
-|2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution]()|
-|3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution]()|
-|4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution]()|
-|5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution]()|
+|1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Welcome%20to%20Java!/solution.java)|
+|2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Stdin%20and%20Stdout%20I/solution.java)|
+|3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Stdin%20and%20Stdout%20II/solution.java)|
+|4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20If-Else/solution.java)|
+|5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution](https://github.com/rawat9/Hackerrank/tree/main/Java/Java%20Loops%20I)|
+|6|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution]()|
+|7|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution]()|
 ---
 
 ## SQL
