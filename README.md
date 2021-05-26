@@ -52,6 +52,8 @@
 |38|Sets|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Solution]()
 |39|Sets|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[]()
 |40|Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[]()
+|41|Python Functionals|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Solution]()|
+|42|Python Functionals|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[Solution]()|
 ---
 
 ## Java
