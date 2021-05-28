@@ -75,8 +75,8 @@
 |4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20If-Else/solution.java)|
 |5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20I/solution.java)|
 |6|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20II/solution.java)|
-|7|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution]()|
-|8|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution]()|
+|7|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Datatypes/solution.java)|
+|8|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Static%20Initializer%20Block/solution.java)|
 |9|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Int%20to%20String/solution.java)|
 |10|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
 ---
