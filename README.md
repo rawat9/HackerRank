@@ -37,7 +37,7 @@
 |15|Strings|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/String%20Split%20and%20Join/solution.py)|
 |16|Strings|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/What's%20Your%20Name/solution.py)|
 |17|Strings|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/Mutations/solution.py)
-|18|Strings|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Solution](https://github.com/rawat9/practice/blob/main/Python/Strings/Find%20a%20string/solution.py)
+|18|Strings|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/Find%20a%20string/solution.py)
 |19|Strings|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/String%20Validators/solution.py)
 |20|Strings|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/Text%20Alignment/solution.py)
 |21|Strings|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/Text%20Wrap/solution.py)
