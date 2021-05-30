@@ -89,7 +89,7 @@
 | 1 |Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)| [Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/sol.sql) | 
 | 2 |Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/sol.sql)| 
 | 3 |Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Select%20All/sol.sql)| 
-| 4 |Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id)|[Solution](https://github.com/rawat9/practice/blob/main/SQL/Basic%20Select/Select%20By%20ID/sol.sql)| 
+| 4 |Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Select%20By%20ID/sol.sql)| 
 | 5 |Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) |[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Attributes/sol.sql)| 
 | 6 |Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Names/sol.sql)| 
 | 7 |Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Weather%20Observation%20Station%201/sol.sql)| 
