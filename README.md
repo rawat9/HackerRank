@@ -81,6 +81,7 @@
 |10|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
 |11|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
 |12|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
+|13|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution]()|
 ---
 
 ## SQL
