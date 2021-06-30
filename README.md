@@ -142,3 +142,11 @@
 |1|Introduction|[Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Solve%20Me%20First%20FP/solution.rkt)|
 |2|Introduction|[Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Hello%20World/solution.rkt)|
 |3|Recursion|[Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)|[Solution]()|
+
+
+## Databases
+|No.| Subdomain    |     Question    |   Solution |
+|:-:|:------------:|:---------------:|:----------:|
+|1|Relational Algebra|[Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem)|[Solution]()|
+|2|Relational Algebra|[Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem)|[Solution]()|
+|3|Relational Algebra|[Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem)|[Solution]()|
