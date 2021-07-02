@@ -14,6 +14,8 @@
 - [SQL](#sql)
 - [Functional Programming](#functional-programming)
 - [Java](#java)
+- [Databases](#databases)
+- [30 Days of Code](#)
 ---
 
 ## Python
