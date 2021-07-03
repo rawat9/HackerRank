@@ -78,12 +78,13 @@
 |5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20I/solution.java)|
 |6|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20II/solution.java)|
 |7|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Datatypes/solution.java)|
-|8|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Static%20Initializer%20Block/solution.java)|
-|9|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Int%20to%20String/solution.java)|
-|10|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
-|11|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
-|12|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
-|13|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
+|8|Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[Solution]()|
+|9|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Static%20Initializer%20Block/solution.java)|
+|10|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Int%20to%20String/solution.java)|
+|11|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
+|12|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
+|13|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
+|14|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
 ---
 
 ## SQL
