@@ -40,7 +40,7 @@
 |10|Basic Data Types|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Basic%20Data%20Types/Lists/solution.py)|
 |11|Basic Data Types|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Basic%20Data%20Types/List%20Comprehensions/solution.py)|
 |12|Basic Data Types|[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Basic%20Data%20Types/Nested%20Lists/solution.py)|
-|13|Basic Data Types|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)||
+|13|Basic Data Types|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Basic%20Data%20Types/Tuples/solution.py)|
 |14|Strings|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/sWAP%20cASE/solution.py)|
 |15|Strings|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/String%20Split%20and%20Join/solution.py)|
 |16|Strings|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Strings/What's%20Your%20Name/solution.py)|
@@ -70,9 +70,9 @@
 |40|Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[]()
 |41|Python Functionals|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Python%20Functionals/Map%20and%20Lambda%20Function/solution.py)|
 |42|Python Functionals|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Python%20Functionals/Reduce%20Function/solution.py)|
-|43|Python Functionals|[Validating Email Address With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[Solution]()|
-|44|Debugging|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[Solution]()|
-|45|Debugging|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[Solution]()|
+|43|Python Functionals|[Validating Email Address With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[]()|
+|44|Debugging|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Debugging/Words%20Score/solution.py)|
+|45|Debugging|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Debugging/Default%20Arguments/solution.py)|
 ---
 
 ## Java
