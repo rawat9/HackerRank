@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-[![Profile](https://img.shields.io/badge/Hackerrank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/rawat9)
-[![Last Commit](https://img.shields.io/github/last-commit/rawat9/Hackerrank)](#)
+	<a href="https://www.hackerrank.com/rawat9">
+		<img alt="Profile" src="https://img.shields.io/badge/Hackerrank-Profile-green?style=flat&logo=hackerrank">
+	</a>
+	<a href="https://github.com/rawat9/Hackerrank/pulse">
+		<img src="https://img.shields.io/github/last-commit/rawat9/Hackerrank">
+	</a>
 </p>
 
 - [Python](#python)
