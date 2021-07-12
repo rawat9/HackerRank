@@ -63,6 +63,9 @@
 |40|Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[]()
 |41|Python Functionals|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Python%20Functionals/Map%20and%20Lambda%20Function/solution.py)|
 |42|Python Functionals|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Python%20Functionals/Reduce%20Function/solution.py)|
+|43|Python Functionals|[Validating Email Address With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[Solution]()|
+|44|Debugging|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[Solution]()|
+|45|Debugging|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[Solution]()|
 ---
 
 ## Java
