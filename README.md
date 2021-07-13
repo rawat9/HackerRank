@@ -94,7 +94,7 @@
 |12|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
 |13|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
 |14|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
-|15|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Comparisons/solution.java)|
+|15|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Subtstring%20Comparisons/solution.java)|
 ---
 
 ## SQL
