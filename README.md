@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://www.hackerrank.com/rawat9">
-        <img height=180 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+        <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png"> 
     	</a>
 	<br>
 </p>
