@@ -14,7 +14,7 @@
 	<a href="https://github.com/rawat9/Hackerrank/pulse">
 		<img src="https://img.shields.io/github/last-commit/rawat9/Hackerrank">
 	</a>
-	<a href="">
+	<a href="https://github.com/rawat9/HackerRank/blob/main/LICENSE">
 		<img src="https://img.shields.io/github/license/rawat9/HackerRank">
 	</a>
 	
