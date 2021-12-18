@@ -94,10 +94,12 @@
 |9|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Static%20Initializer%20Block/solution.java)|
 |10|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Int%20to%20String/solution.java)|
 |11|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
-|12|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
-|13|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
-|14|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
-|15|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Subtstring%20Comparisons/solution.java)|
+|12|Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Java/Introduction/Java%20Date%20and%20Time/solution.java)|
+|13|Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)||
+|14|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
+|15|Strings|[Java Substrings](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substrings/solution.java)|
+|16|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
+|17|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Subtstring%20Comparisons/solution.java)|
 ---
 
 ## SQL
