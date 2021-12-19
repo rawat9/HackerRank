@@ -83,17 +83,17 @@
 
 |No.| Subdomain  |   Question    |   Solution |        
 |:-:|:---------:|:----------------:|:----------:|
-|1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Welcome%20to%20Java!/solution.java)|
-|2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Stdin%20and%20Stdout%20I/solution.java)|
-|3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Stdin%20and%20Stdout%20II/solution.java)|
-|4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20If-Else/solution.java)|
-|5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20I/solution.java)|
-|6|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Loops%20II/solution.java)|
-|7|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Datatypes/solution.java)|
+|1|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Java/Introduction/Welcome%20to%20Java!/solution.java)|
+|2|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Stdin%20and%20Stdout%20I/solution.java)|
+|3|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Stdin%20and%20Stdout%20II/solution.java)|
+|4|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20If-Else/solution.java)|
+|5|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Loops%20I/solution.java)|
+|6|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Loops%20II/solution.java)|
+|7|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Datatypes/solution.java)|
 |8|Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[Solution]()|
-|9|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Static%20Initializer%20Block/solution.java)|
-|10|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Int%20to%20String/solution.java)|
-|11|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Java%20Output%20Formatting/solution.java)|
+|9|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Static%20Initializer%20Block/solution.java)|
+|10|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Int%20to%20String/solution.java)|
+|11|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Introduction/Java%20Output%20Formatting/solution.java)|
 |12|Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Java/Introduction/Java%20Date%20and%20Time/solution.java)|
 |13|Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)||
 |14|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
