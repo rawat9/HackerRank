@@ -2,7 +2,7 @@ import java.util.*;
 
 
 interface AdvancedArithmetic{
-  int divisor_sum(int n);
+    int divisor_sum(int n);
 }
 
 class MyCalculator implements AdvancedArithmetic {
@@ -27,7 +27,7 @@ class Solution{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.print(my_calculator.divisor_sum(n) + "\n");
-          sc.close();
+        sc.close();
     }
     
     static void ImplementedInterfaceNames(Object o){
