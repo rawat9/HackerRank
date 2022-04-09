@@ -9,7 +9,7 @@
 <p align="center">
 	<br>
 	<a href="https://www.hackerrank.com/rawat9">
-		<img alt="Profile" src="https://img.shields.io/badge/Hackerrank-Profile-green?style=flat&logo=hackerrank">
+		<img alt="profile" src="https://img.shields.io/badge/Hackerrank-Profile-green?style=flat&logo=hackerrank">
 	</a>
 	<a href="https://github.com/rawat9/Hackerrank/pulse">
 		<img src="https://img.shields.io/github/last-commit/rawat9/Hackerrank">
@@ -103,9 +103,9 @@
 |12|Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Java/Introduction/Java%20Date%20and%20Time/solution.java)|
 |13|Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)||
 |14|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)|
-|15|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substring/solution.java)|
+|15|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substring/Solution.java)|
 |16|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Reverse/solution.java)|
-|17|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substring%20Comparisons/solution.java)|
+|17|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Substring%20Comparisons/Solution.java)|
 |18|Strings|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20Anagrams/solution.java)|
 |19|Strings|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Java/Strings/Java%20String%20Tokens/solution.java)|
 ---
