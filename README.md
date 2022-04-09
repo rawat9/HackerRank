@@ -76,6 +76,12 @@
 |43|Python Functionals|[Validating Email Address With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[]()|
 |44|Debugging|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Debugging/Words%20Score/solution.py)|
 |45|Debugging|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Debugging/Default%20Arguments/solution.py)|
+|46|Built-Ins|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Zipped!/solution.py)|
+|47|Built-Ins|[Input()](https://www.hackerrank.com/challenges/input/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Input()/solution.py)|
+|48|Built-Ins|[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Python%20Evaluation/solution.py)|
+|49|Built-Ins|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Athlete%20Sort/solution.py)|
+|50|Built-Ins|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Any%20or%20All/solution.py)|
+|51|Built-Ins|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/ginortS/solution.py)|
 ---
 
 ## Java
