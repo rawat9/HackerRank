@@ -82,6 +82,14 @@
 |49|Built-Ins|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Athlete%20Sort/solution.py)|
 |50|Built-Ins|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/Any%20or%20All/solution.py)|
 |51|Built-Ins|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Built-Ins/ginortS/solution.py)|
+|52|Collections|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/collections.Counter()/solution.py)|
+|53|Collections|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/DefaultDict%20Tutorial/solution.py)|
+|54|Collections|[collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Collections.namedtuple()/solution.py)|
+|55|Collections|[collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Collections.OrderedDict()/solution.py)|
+|56|Collections|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Word%20Order/solution.py)|
+|57|Collections|[collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Collections.deque()/solution.py)|
+|58|Collections|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Company%20Logo/solution.py)|
+|59|Collections|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/Python/Collections/Piling%20Up!/solution.py)|
 ---
 
 ## Java
