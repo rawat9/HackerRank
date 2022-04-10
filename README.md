@@ -31,7 +31,7 @@
 
 |No.| Subdomain      |                 Question                |   Solution |        
 |:-:|:---------------:|:---------------------------------------:|:----------:|
-|1|Introduction|[Say "Hello World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python/solution.py)|
+|1|Introduction|[Say "Hello World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python/solution.py)| <!-- markdown-link-check-disable-line -->
 |2|Introduction|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Introduction/Python%20If-Else/solution.py)|
 |3|Introduction|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Introduction/Arithmetic%20Operators/solution.py)|            
 |4|Introduction|[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Introduction/Python:%20Division/solution.py)|
@@ -61,7 +61,7 @@
 |28|Sets|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Introduction%20to%20Set/solution.py)
 |29|Sets|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Symmetric%20Difference/solution.py)
 |30|Sets|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.add()/solution.py)
-|31|Sets|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.discard()%2C%20.remove()%20%26%20.pop()/solution.py)
+|31|Sets|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.discard()%2C%20.remove()%20%26%20.pop()/solution.py) <!-- markdown-link-check-disable-line -->
 |32|Sets|[Set .union Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.union()%20Operation/solution.py)
 |33|Sets|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.intersection()%20Operation/solution.py)
 |34|Sets|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Python/Sets/Set%20.difference()%20Operation/solution.py)
@@ -183,10 +183,3 @@
 |2|Introduction|[Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Hello%20World/solution.rkt)|
 |3|Recursion|[Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Fibonacci%20Numbers/solution.rkt)|
 ---
-
-## Databases
-|No.| Subdomain    |     Question    |   Solution |
-|:-:|:------------:|:---------------:|:----------:|
-|1|Relational Algebra|[Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%231/solution.txt)|
-|2|Relational Algebra|[Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%232/solution.txt)|
-|3|Relational Algebra|[Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem)|[Solution](https://github.com/rawat9/Hackerrank/tree/main/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%233/solution.txt)|
