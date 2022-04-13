@@ -182,4 +182,3 @@
 |1|Introduction|[Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Solve%20Me%20First%20FP/solution.rkt)|
 |2|Introduction|[Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Hello%20World/solution.rkt)|
 |3|Recursion|[Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/Functional%20Programming/Fibonacci%20Numbers/solution.rkt)|
----
