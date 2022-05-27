@@ -24,7 +24,6 @@
 - [SQL](#sql)
 - [Functional Programming](#functional-programming)
 - [Java](#java)
-- [Databases](#databases)
 ---
 
 ## Python
@@ -119,7 +118,7 @@
 ---
 
 ## SQL
-> All solutions are in MSSQL
+> All solutions are in MS SQL
 
 |No.| Subdomain       |                 Question                |   Solution |        
 |:-:|:---------------:|:---------------------------------------:|:----------:|
