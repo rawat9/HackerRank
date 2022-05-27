@@ -142,9 +142,9 @@
 | 18|Basic Select|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Higher%20Than%2075%20Marks/sol.sql)| 
 | 19|Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Employee%20Names/sol.sql)| 
 | 20|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Basic%20Select/Employee%20Salaries/sol.sql)| 
-|21|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)| |
+|21|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/SQL/Advanced%20Select/The%20PADS/sol.sql)|
 |22|Advanced Select|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)| |
-|23|Advanced Select|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)| |
+|23|Advanced Select|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](https://github.com/rawat9/HackerRank/blob/main/SQL/Advanced%20Select/Binary%20Tree%20Nodes/sol.sql)|
 |24|Advanced Select|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)| |
 |25|Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Advanced%20Select/Type%20of%20Triangle/sol.sql)|
 |26|Aggregation|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[Solution](https://github.com/rawat9/Hackerrank/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function/sol.sql) |
